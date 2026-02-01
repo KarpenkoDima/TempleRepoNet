@@ -1,2 +1,2 @@
 # TempleRepoNet
-templetefor me .net project
+templete for my .net project
